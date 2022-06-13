@@ -1,3 +1,0 @@
-# About this repo
-
-Description
